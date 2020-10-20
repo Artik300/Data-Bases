@@ -1,4 +1,5 @@
 # PostgreSQL db_normalized
+This repository contains the completed programming test task as part of the selection for the Move program 
 ## Оглавление
 1. [Описание структуры базы данных](#описание-структуры-базы-данных)
 2. [Запрос 1. Получение всех имен и фамилий людей в определенном кабинете](#запрос-1-получение-всех-имен-и-фамилий-людей-в-определенном-кабинете)
